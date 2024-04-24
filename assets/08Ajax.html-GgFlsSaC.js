@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as o}from"./app-hMSRrQZq.js";const s={},r=e("h1",{id:"原生ajax及axios、fetch",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#原生ajax及axios、fetch","aria-hidden":"true"},"#"),o(" 原生Ajax及Axios、Fetch")],-1),_=[r];function n(i,d){return t(),c("div",null,_)}const x=a(s,[["render",n],["__file","08Ajax.html.vue"]]);export{x as default};
